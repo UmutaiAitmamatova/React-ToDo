@@ -1,0 +1,112 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "name": "Продажи",
+      "colorId": 5
+    },
+    {
+      "id": 2,
+      "name": "Фронтенд",
+      "colorId": 4
+    },
+    {
+      "id": 3,
+      "name": "Фильмы и сериалы",
+      "colorId": 3
+    },
+    {
+      "id": 4,
+      "name": "Книги",
+      "colorId": 2
+    },
+    {
+      "id": 5,
+      "name": "Личное",
+      "colorId": 1
+    },
+    {
+      "name": "Todo ReactJs completed!!!",
+      "colorId": 6,
+      "id": 7
+    },
+    {
+      "name": "apple",
+      "colorId": 8,
+      "id": 8
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "listId": 2,
+      "text": "Изучить JavaScript",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "listId": 2,
+      "text": "Изучить паттерны проектирования",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "listId": 2,
+      "text": "ReactJS Hooks (useState, useReducer, useEffect и т.д.)",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "listId": 2,
+      "text": "Redux (redux-observable, redux-saga)",
+      "completed": false
+    },
+    {
+      "text": "123",
+      "completed": false,
+      "id": 5
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#aaadad",
+      "name": "grey"
+    },
+    {
+      "id": 2,
+      "hex": "#2ad186",
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "hex": "#41bdf2",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "#FFBBCC",
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "hex": "#faa0b6",
+      "name": "lime"
+    },
+    {
+      "id": 6,
+      "hex": "#b625f7",
+      "name": "purple"
+    },
+    {
+      "id": 7,
+      "hex": "#1b0152",
+      "name": "black"
+    },
+    {
+      "id": 8,
+      "hex": "#fa3c3c",
+      "name": "red"
+    }
+  ]
+}
